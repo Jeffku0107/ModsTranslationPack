@@ -1,5 +1,46 @@
 # Changelog
 
+## [1.7.7](https://github.com/xMikux/ModsTranslationPack/compare/v1.7.6...v1.7.7) (2023-03-01)
+
+
+### 🌐 用語在地化
+
+* **Chat Heads:** 修正在地化用語 ([#245](https://github.com/xMikux/ModsTranslationPack/issues/245)) ([38a9bd4](https://github.com/xMikux/ModsTranslationPack/commit/38a9bd4f249ddc652d9834fa12e7873556ff35e3))
+
+
+### ⚡ 新增模組翻譯
+
+* **Exordium:** 新增 Exordium v1.0.3 ([#251](https://github.com/xMikux/ModsTranslationPack/issues/251)) ([2721a44](https://github.com/xMikux/ModsTranslationPack/commit/2721a4499396c0beec00a2d12fd22c2303bc4013))
+* **Go Fish:** 新增釣魚時光 v1.6.0 ([#247](https://github.com/xMikux/ModsTranslationPack/issues/247)) ([f247a6f](https://github.com/xMikux/ModsTranslationPack/commit/f247a6f1dfbf9e8bd8baf100188b46a3e90e5b9b))
+* **Item Model Fix:** 新增物品模型修正 v1.0.3 ([#249](https://github.com/xMikux/ModsTranslationPack/issues/249)) ([0256503](https://github.com/xMikux/ModsTranslationPack/commit/025650358c8d9ebb4ff5f092a92cb11a8f279adf))
+* **Puzzle:** 新增拼圖 v1.4.2 ([#248](https://github.com/xMikux/ModsTranslationPack/issues/248)) ([0c779c1](https://github.com/xMikux/ModsTranslationPack/commit/0c779c172ea739823288ffeb5e42f27811c844d9))
+* **Rotten Creatures:** 新增腐爛生物 v1.0.1 翻譯 ([#250](https://github.com/xMikux/ModsTranslationPack/issues/250)) ([62df5ae](https://github.com/xMikux/ModsTranslationPack/commit/62df5aece2a2b40b87d58e51bb4d483d1a70ef47))
+* **Smooth Boot:** 新增平滑啟動 v1.7.1 ([#244](https://github.com/xMikux/ModsTranslationPack/issues/244)) ([85942f8](https://github.com/xMikux/ModsTranslationPack/commit/85942f8c4da05fd4a0d52409e3a9b813475d9aa9))
+
+
+### 📑 文件更新
+
+* **ModsList:** 更新模組清單 ([#243](https://github.com/xMikux/ModsTranslationPack/issues/243)) ([d8f1990](https://github.com/xMikux/ModsTranslationPack/commit/d8f1990307f92bc6a3c8b54aab4d120d7083d16c))
+
+
+### 🧰 重構
+
+* 多版本重構 ([#252](https://github.com/xMikux/ModsTranslationPack/issues/252)) ([b2dfe30](https://github.com/xMikux/ModsTranslationPack/commit/b2dfe30e62d54c6b47a9488d5d3444a638571a86))
+
+
+### 🐌 更新模組翻譯
+
+* **Applied Energistics 2:** 更新 1.19.2 翻譯 ([#253](https://github.com/xMikux/ModsTranslationPack/issues/253)) ([bf6bd6f](https://github.com/xMikux/ModsTranslationPack/commit/bf6bd6fe9a1862e407c29e6bfe36f33c17a98959))
+
+
+### ☁️ 持續整合 / 持續佈署
+
+* 修正快取失敗 ([a90f020](https://github.com/xMikux/ModsTranslationPack/commit/a90f0207f0ce210f965a928adf952c3b2b8e9967))
+* 修正額外空格 ([d7d1451](https://github.com/xMikux/ModsTranslationPack/commit/d7d145158e467d22c31d3d57b8bc2d4873130405))
+* 新增忽略方式 ([b5f4baf](https://github.com/xMikux/ModsTranslationPack/commit/b5f4baf05ee66730a1796b87fd57da19554e0c7e))
+* 新增更好的地獄/終界覆蓋 ([9ab52a4](https://github.com/xMikux/ModsTranslationPack/commit/9ab52a4e41859954a4c24cd560670a5cbf3b22de))
+* 調整 s3 覆蓋下載規則 ([d5bdb13](https://github.com/xMikux/ModsTranslationPack/commit/d5bdb1323b9c4fa641bf02a48198813c88b98824))
+
 ## [1.7.6](https://github.com/xMikux/ModsTranslationPack/compare/v1.7.5...v1.7.6) (2023-02-26)
 
 
